@@ -1,0 +1,10 @@
+.user-list {
+  height: 585px !important;
+  overflow: auto;
+
+  .rowItem {
+    &:hover {
+      background-color: #ddd;
+    }
+  }
+}
